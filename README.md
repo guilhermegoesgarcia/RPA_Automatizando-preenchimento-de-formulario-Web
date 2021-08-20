@@ -9,7 +9,7 @@
 
 
 Este projeto consiste no desenvolvimento de um código RPA que irá coletar uma planilha excel, extrair as informações contidas na planilha e preencher o formulario web repetindo este processo até que todas as informções sejam preenchidas no site. 
- > formularioweb:(http://rpachallenge.com/)
+ > formulario Web usado: http://rpachallenge.com/
 
    ### Principais funcionalidades
 
