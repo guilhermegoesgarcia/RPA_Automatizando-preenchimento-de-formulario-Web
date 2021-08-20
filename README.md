@@ -14,7 +14,7 @@ Este projeto consiste no desenvolvimento de um código RPA que irá coletar uma 
    ### Principais funcionalidades
 
     > Robotic Process Automation
-      • Fazer o download de uma planilha Excel 
+      • Download de uma planilha Excel 
       • Extrair as informações contidas no arquivo
       • Identificar o local correto a ser preenchido no formulário web
       • Preencher o formulário web em loop com as informaçoes extraidas do excel 
