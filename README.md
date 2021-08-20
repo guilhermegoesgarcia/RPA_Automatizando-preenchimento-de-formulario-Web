@@ -13,18 +13,19 @@ Este projeto consiste no desenvolvimento de um código
    ### Principais funcionalidades
 
     > 
-      • 
-      • 
-      •  
-      • 
+      • Fazer o download de uma planilha Excel 
+      • Extrair as informações contidas no arquivo
+      • Identificar o local correto a ser preenchido no formulario web
+      • Preencher o formulario web em loop com as informaçoes extraidas do excel 
     
 ## Tecnologias utilizadas:
 
 Este projeto foi desenvolvido usando as seguintes tecnologias:
     
     • Python 3.9
-    • 
-    • 
+    • RPA.Browser.Selenium
+    • RPA.Excel.Files
+    • RPA.HTTP
     
     
 <a href="https://github.com/imersao-alura/aluraflix/blob/master/LICENSE " target="_blank"><img src="https://img.shields.io/badge/licence-MIT-blue.svg" alt="" /></a> 
