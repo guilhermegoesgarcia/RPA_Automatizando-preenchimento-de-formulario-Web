@@ -8,6 +8,7 @@ from RPA.Browser.Selenium import Selenium
 from RPA.HTTP import HTTP
 
 
+
 # Open chrome on site
 browser = Selenium()
 browser.open_available_browser('http://rpachallenge.com/')  #http://rpachallenge.com/
